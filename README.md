@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ryder
-- 👀 I’m interested in; vid gam, gnome
-- 🌱 I’m currently learning; ECE, to love myself completely
-- 💞️ I’m looking to collaborate on; game, gnome hunt
-- 📫 How to reach me - follow the marks along the pines
+- 👀 I’m interested in; video games, gnomes
+- 🌱 I’m currently learning; C#, Game dev, Web dev
+- 💞️ I’m looking to collaborate on; games, gnome hunts
+- 📫 How to reach me - follow the marks along the pines, Ryder.JBT@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: gnomes are out there
 
